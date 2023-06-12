@@ -12,7 +12,7 @@ and various commands using a web project.
 
 ## Deployment
 
-Sample website with plenty of files for demos
+Sample website with plenty of files for demos.
 
 ## How To Contribute
 
