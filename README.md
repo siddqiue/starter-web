@@ -15,3 +15,6 @@ and various commands using a web project.
 Sample website with plenty of files for demos
 
 ## How To Contribute
+
+As stated above, the main purpose is to provide simple examples
+for Git training demos.
