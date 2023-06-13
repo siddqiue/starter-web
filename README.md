@@ -18,3 +18,6 @@ Sample website with plenty of files for demos.
 
 As stated above, the main purpose is to provide simple examples
 for Git training demos.
+
+Please fork this repository and then issue Pull Request for
+review. 
